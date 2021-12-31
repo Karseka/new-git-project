@@ -1,0 +1,6 @@
+document.body.innerHTML = '<h1>Hello from JavaScript</h1>'
+console.log("Test2")
+console.log("Test3")
+console.log("!!!!!!!")
+console.log("?????????")
+console.log("$$$$$$$$$")
